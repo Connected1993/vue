@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="https://inordic.ru/assets/images/icons/logo.svg" height="100">
-    <HelloWorld msg="Welcome to version my-site-2"/>
+    <HelloWorld msg="Welcome to GitHub Pages"/>
   </div>
 </template>
 

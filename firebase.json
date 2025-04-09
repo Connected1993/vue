@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "dist",
+    "target": "my-site-2",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

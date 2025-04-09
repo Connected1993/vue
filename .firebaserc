@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "nordic-it-school-2025"
+  },
+  "targets": {
+    "nordic-it-school-2025": {
+      "hosting": {
+        "my-site-1": [
+          "nordic-it-school-2025"
+        ],
+        "my-site-2": [
+          "nordic-it-school-2026"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
